@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $("button").click(function() {
+  $("button#redBtn").click(function() {
     $("body").addClass("redBackground");
   });
 
